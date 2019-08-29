@@ -4,6 +4,6 @@
 # For Yeahreum Build Aux
 
  ```
-[M4] Yeahreum
+[Build Aux] Yeahreum
 ```
 [Build Aux](https://github.com/yeahreum/buildaux)
